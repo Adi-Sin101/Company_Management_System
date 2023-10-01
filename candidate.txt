@@ -1,0 +1,10 @@
+rina
+1 32 Hired
+rina@gmail.com
+Bachelor's
+ Programming
+rohan
+2 43 Rejected
+rohan@gmail.com
+Master's
+ Sleeping
